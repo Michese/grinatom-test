@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Название",
+    "field": "title"
+  },
+  {
+    "title": "Рейтинг",
+    "field": "rating"
+  },
+  {
+    "title": "Год",
+    "field": "year"
+  }
+]

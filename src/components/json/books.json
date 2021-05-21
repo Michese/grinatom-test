@@ -1,0 +1,92 @@
+[
+  {
+    "id": 54,
+    "title": "Мастер и Маргарита",
+    "author": "Булгаков М.",
+    "publisher": "ЭКСМО",
+    "year": 2020,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 1,
+    "title": "Атлант расправил плечи",
+    "author": "Рэнд А.",
+    "publisher": "Альпина Паблишер",
+    "year": 2019,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 2,
+    "title": "Пиковая Дама",
+    "author": "Пушкин А.",
+    "publisher": "Фонд Столярова",
+    "year": 2015,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 3,
+    "title": "Граф Монте-Кристо",
+    "author": "Дюма А.",
+    "publisher": "Азбука",
+    "year": 2019,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 4,
+    "title": "Отец Сергий",
+    "author": "Толстой Л.",
+    "publisher": "Профиздат",
+    "year": 2008,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 5,
+    "title": "Далекие. Близкие",
+    "author": "Андреев Л.",
+    "publisher": "Минувшее",
+    "year": 2011,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 6,
+    "title": "Три мушкетера",
+    "author": "Дюма А.",
+    "publisher": "ЭКСМО",
+    "year": 2006,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 7,
+    "title": "Ледяной дом",
+    "author": "Лажечников И.",
+    "publisher": "Профиздат",
+    "year": 2008,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 8,
+    "title": "Жизнь Иисуса",
+    "author": "Ренан Э.",
+    "publisher": "ЭКСМО",
+    "year": 2007,
+    "rating": 0,
+    "bookmark": false
+  },
+  {
+    "id": 9,
+    "title": "Собрание сочинений в одном томе",
+    "author": "Высоцкий В.",
+    "publisher": "ЭКСМО",
+    "year": 2011,
+    "rating": 0,
+    "bookmark": false
+  }
+]

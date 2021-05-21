@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Год",
+    "field": "year"
+  },
+  {
+    "title": "Автор",
+    "field": "author"
+  },
+  {
+    "title": "Издательство",
+    "field": "publisher"
+  }
+]
